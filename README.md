@@ -1,4 +1,4 @@
-### [ShorterURL]
+### ShorterURL
 
 **Description**: A test project demonstrating a minimal API for URL shortening using .NET 8 and Entity Framework. This API features:
 
